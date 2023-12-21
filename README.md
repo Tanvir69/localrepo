@@ -1,6 +1,8 @@
 <p>This is a local repo 2.0</p>
 
-<header>This is a header</header>
+<header>This is a header <></header>
+#This new feature includes <horizontal button> button for work!!
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -31,5 +33,5 @@
         section {
             margin: 20px 0;
         }
-        footer {
+        
      
